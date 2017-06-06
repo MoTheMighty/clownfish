@@ -1,0 +1,19 @@
+h3 {
+  color: orange; font-size: 35px;
+}
+p.italic {
+  font-style: italic;
+}
+span {
+  font-weight: bold;
+}
+ul {
+  list-style-type: none;
+}
+body {
+  border-style: inset;
+  width: 300px;
+}
+div {
+  border-style: inset; padding: 10px 15px 10px 15px;
+}
