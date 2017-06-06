@@ -1,3 +1,12 @@
+/*Browsers have their own stylesheets, this first step
+that I have added essentially resets that. You can find
+some good information on the web about this at:
+"meyerweb.com/eric/tools/css/reset/"*/
+*{
+  margin: 0;
+  padding: 0;
+}
+
 h3 {
   color: orange; font-size: 35px;
 }
